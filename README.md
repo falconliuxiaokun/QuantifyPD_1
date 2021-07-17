@@ -1,4 +1,4 @@
-# quantifyPD_1
+# QuantifyPD_1
 The quantification of plasmodesmata callose includes two parts and here is part1 that use Fiji Macro to automatically quantify aniline blue signal at plasmodesmata.
 Fiji macro
 The core backbone of this macro comes from Matt and the basic steps are explained in the attached word file ‘Annalisa callose methods’. 
